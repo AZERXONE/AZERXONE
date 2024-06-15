@@ -34,3 +34,8 @@ I'm Computer Science student at the Széchenyi István University. I'm in my sec
 - Computer Networks ✔️
 - Webtechnology and Webapplication Development ✔️
 - Object-Orianted Programming ⚙️
+
+<details>
+<summary><h3>About My Coding Journey</h3><summary/>
+          I started my computer science journey 2 years ago. I was passonate about how to build softwers from scratch and to start developing my own projects I started by picking my first language Python. After understanding the basics of programming like variables, functions, loops I followed a Front-End Development roadmap on FreeCodeCamp where I learnt about JS,HTML and CSS. This was the time where I decided that I want to major in computer science. I got accepted at Széchenyi István University, right now I'm in my second semester learning and currently looking forward to land a cs internship.
+<details/>
