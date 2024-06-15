@@ -1,6 +1,6 @@
 # Dóka Róbert
 
-## Computer Science student 
+## Computer Science Student 
 
 I'm Computer Science student at the Széchenyi István University. I'm in my second semester of learning cs in university. My projects are all built from the ground up, from planning and designing all the way to fully working softwares.
 
