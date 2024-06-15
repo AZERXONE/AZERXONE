@@ -2,7 +2,7 @@
 
 ## Computer Science Student 
 
-I'm a Computer Science student at the Széchenyi István University. I'm in my second semester of learning cs in university. My projects are all built from the ground up, from planning and designing all the way to fully working softwares.
+I'm a first year Computer Science student at the Széchenyi István University. My projects are all built from the ground up, from planning and designing all the way to fully working softwares.
 
 ## Languages and Tools
 
@@ -34,6 +34,14 @@ I'm a Computer Science student at the Széchenyi István University. I'm in my s
 - Computer Networks ✔️
 - Webtechnology and Webapplication Development ✔️
 - Object-Orianted Programming ⚙️
+
+## Currently working on
+- Exploratory data analysis on a Portugese Bank dataset
+- Mug designer desktop application
+
+## LeetCode
+I'm currently on a journey improving my DSA skills. <br/> <br/>
+![LeetCode Stats](https://leetcard.jacoblin.cool/AZERXONE?theme=light&font=Bungee%20Hairline&ext=heatmap)
 
 <details>
           
