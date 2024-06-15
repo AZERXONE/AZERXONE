@@ -1,16 +1,24 @@
-## Hi there 👋
+# Dóka Róbert
 
-<!--
-**AZERXONE/AZERXONE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Computer Science student 
 
-Here are some ideas to get you started:
+I'm Computer Science student at the Széchenyi István University. I'm in my second semester of learning cs in university. My projects are all built from the ground up, from planning and designing all the way to fully working softwares.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages and Tools
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+          
+
+## Courses I took
+- Discrete Math ✔️
+- Calculus ✔️
+- Linear Algebra ✔️
+- Python programming ✔️
+- Algorithms and Data Structures ✔️
+- Databases ✔️
+- Differential-Equations and System Controlling ✔️
+- Optimalization ✔️
+- Basics of Machine Learning ⚙️
+- Computer Networks ✔️
+- Webtechnology and Webapplication Development ✔️
+- Object-Orianted Programming ⚙️
