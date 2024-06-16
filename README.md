@@ -33,7 +33,7 @@ I'm a first year Computer Science student at the Széchenyi István University. 
 - Basics of Machine Learning ⚙️
 - Computer Networks ✔️
 - Webtechnology and Webapplication Development ✔️
-- Object-Orianted Programming ⚙️
+- Object-Oriented Programming ⚙️
 
 ## Currently working on
 - Exploratory data analysis on a Portugese Bank dataset
