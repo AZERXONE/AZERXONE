@@ -40,7 +40,7 @@ I'm a first year Computer Science student at the Széchenyi István University. 
 - Mug designer desktop application
 
 ## LeetCode
-I'm currently on a journey improving my DSA skills. <br/> <br/>
+I'm currently improving my DSA skills. <br/> <br/>
 ![LeetCode Stats](https://leetcard.jacoblin.cool/AZERXONE?theme=light&font=Bungee%20Hairline&ext=heatmap)
 
 <details>
