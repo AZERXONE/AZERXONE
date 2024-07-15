@@ -36,8 +36,8 @@ I'm a first year Computer Science student at the Széchenyi István University. 
 - Object-Oriented Programming ✔️
 
 ## Currently working on
-- Exploratory data analysis on a Portugese Bank dataset
-- Mug designer desktop application
+- BodyFat predicting application
+- Portfolio website
 
 ## LeetCode
 I'm currently improving my DSA skills. <br/> <br/>
