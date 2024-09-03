@@ -15,29 +15,37 @@ I'm a first year Computer Science student at the Széchenyi István University. 
 <img align="left" alt="MYSQL" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
 <img align="left" alt="MONGODB" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg">
 <img align="left" alt="C#" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
-<img align="left" alt="VS studio code" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
-<img align="left" alt="VS studio" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg">
-<br/>
-<br/>
-          
+<img align="left" alt="Anaconda" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg" />
+<img align="left" alt="Scikit-learn" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
+<br>
+<br>
 
 ## Courses I took
-- Discrete Math ✔️
-- Calculus ✔️
-- Linear Algebra ✔️
-- Python programming ✔️
-- Algorithms and Data Structures ✔️
-- Databases ✔️
+- Basics of Neural Networks ⚙️
+- Computer Vision ⚙️
+- Software Development Methods ⚙️
+- Network Operating Systems I. ⚙️
+- IP Based Communication ⚙️
+- Stochastic Signals and Models ⚙️
 - Differential-Equations and System Controlling ✔️
 - Optimalization ✔️
 - Basics of Machine Learning ✔️
 - Computer Networks ✔️
 - Webtechnology and Webapplication Development ✔️
 - Object-Oriented Programming ✔️
+- Discrete Math ✔️
+- Calculus ✔️
+- Linear Algebra ✔️
+- Python programming ✔️
+- Algorithms and Data Structures ✔️
+- Databases ✔️
 
-## Currently working on
-- BodyFat predicting application
-- Portfolio website
+## Internship
+<p align="center"><strong>Audi - Data Analytics</strong></p>
+<p align="center">2024-</p>
+<div align="center">
+<img alt="Audi" width = 20% src="https://github.com/user-attachments/assets/44a9430b-c1c8-4e45-a12e-a6783529921d">
+</div>
 
 ## LeetCode
 I'm currently improving my DSA skills. <br/> <br/>
