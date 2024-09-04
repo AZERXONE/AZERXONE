@@ -2,7 +2,7 @@
 
 ## Computer Science Student 
 
-I'm a first year Computer Science student at the Széchenyi István University. My projects are all built from the ground up, from planning and designing all the way to fully working softwares.
+I'm a second year Computer Science student at Széchenyi István University. My projects are all built from the ground up, from planning and designing all the way to fully working softwares.
 
 ## Languages and Tools
 
@@ -41,7 +41,7 @@ I'm a first year Computer Science student at the Széchenyi István University. 
 - Databases ✔️
 
 ## Internship
-<p align="center"><strong>Audi - Data Analytics</strong></p>
+<p align="center"><strong>Audi Hungaria Zrt. - Data Analytics</strong></p>
 <p align="center">2024-</p>
 <div align="center">
 <img alt="Audi" width = 20% src="https://github.com/user-attachments/assets/44a9430b-c1c8-4e45-a12e-a6783529921d">
