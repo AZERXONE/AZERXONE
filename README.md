@@ -18,8 +18,12 @@ I'm a second year Computer Science student at Széchenyi István University. My 
           <img align="left" alt="Anaconda" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg" />
           <img align="left" alt="Scikit-learn" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
 </div>
+<br />
+
+#
 
 ## Courses I took
+
 - Basics of Neural Networks ⚙️
 - Computer Vision ⚙️
 - Software Development Methods ⚙️
