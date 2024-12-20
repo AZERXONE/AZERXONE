@@ -26,9 +26,9 @@ I'm a second year Computer Science student at Széchenyi István University. My 
 
 - Basics of Neural Networks ⚙️
 - Computer Vision ⚙️
-- Software Development Methods ⚙️
-- Network Operating Systems I. ⚙️
-- IP Based Communication ⚙️
+- Software Development Methods ✔️
+- Network Operating Systems I. ✔️
+- IP Based Communication ✔️
 - Stochastic Signals and Models ⚙️
 - Differential-Equations and System Controlling ✔️
 - Optimalization ✔️
