@@ -21,8 +21,15 @@ I'm a second year Computer Science student at Széchenyi István University. My 
 <br />
 
 #
+## Internship
+<p align="center"><strong>Audi Hungaria Zrt. - Data Analytics</strong></p>
+<p align="center">2024-</p>
+<div align="center">
+<img alt="Audi" width = 20% src="https://github.com/user-attachments/assets/44a9430b-c1c8-4e45-a12e-a6783529921d">
+</div>
 
-## Courses I took
+<details>
+<summary><h2>Courses I took</h2></summary>
 
 - Basics of Neural Networks ⚙️
 - Computer Vision ⚙️
@@ -42,17 +49,7 @@ I'm a second year Computer Science student at Széchenyi István University. My 
 - Python programming ✔️
 - Algorithms and Data Structures ✔️
 - Databases ✔️
-
-## Internship
-<p align="center"><strong>Audi Hungaria Zrt. - Data Analytics</strong></p>
-<p align="center">2024-</p>
-<div align="center">
-<img alt="Audi" width = 20% src="https://github.com/user-attachments/assets/44a9430b-c1c8-4e45-a12e-a6783529921d">
-</div>
-
-## LeetCode
-I'm currently improving my DSA skills. <br/> <br/>
-![LeetCode Stats](https://leetcard.jacoblin.cool/AZERXONE?theme=light&font=Bungee%20Hairline&ext=heatmap)
+</details>
 
 <details>
           
