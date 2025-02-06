@@ -31,12 +31,18 @@ I'm a second year Computer Science student at Széchenyi István University. My 
 <details>
 <summary><h2>Courses I took</h2></summary>
 
-- Basics of Neural Networks ⚙️
-- Computer Vision ⚙️
+- Cybersecurity ⚙️
+- AI Project ⚙️
+- AI technologies ⚙️
+- Parallel Programing ⚙️
+- Soft-skills & Management ⚙️
+- Combinatoric Optimalization ⚙️
+- Basics of Neural Networks ✔️
+- Computer Vision ✔️
 - Software Development Methods ✔️
 - Network Operating Systems I. ✔️
 - IP Based Communication ✔️
-- Stochastic Signals and Models ⚙️
+- Stochastic Signals and Models ✔️
 - Differential-Equations and System Controlling ✔️
 - Optimalization ✔️
 - Basics of Machine Learning ✔️
@@ -54,6 +60,6 @@ I'm a second year Computer Science student at Széchenyi István University. My 
 <details>
           
 <summary><h2>About My Coding Journey</h2></summary>
-          I started my computer science journey 2 years ago. I was passonate about how to build softwers from scratch and to start developing my own projects I started by picking my first language Python. After understanding the basics of programming like variables, functions, loops I followed a Front-End Development roadmap on FreeCodeCamp where I learnt about JS,HTML and CSS. This was the time where I decided that I want to major in computer science. I got accepted at Széchenyi István University, right now I'm in my second semester learning and currently looking forward to land a cs internship.
+          I started my computer science journey 3 years ago. My original craft was automation but I found myself interested in computer science so I applied and got accepted at the Széchenyi István University where I started my CS career. After 1 year I got an internship offer from AUDI Hungaria in a Data Analytics position where I'm currently working. I'm developing data preprocesser applications, graph automation and AI for AUDI. I built more than 10 University project all by myself from the ground up. These projects include a Database Management System, CNN/ResNet architecture development, Online web based game... I'm interested in learning new skills everyday.
           
 </details>
