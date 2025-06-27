@@ -31,12 +31,12 @@ I'm a second year Computer Science student at Széchenyi István University. My 
 <details>
 <summary><h2>Courses I took</h2></summary>
 
-- Cybersecurity ⚙️
-- AI Project ⚙️
-- AI technologies ⚙️
-- Parallel Programing ⚙️
-- Soft-skills & Management ⚙️
-- Combinatoric Optimalization ⚙️
+- Cybersecurity ✔️
+- AI Project ✔️
+- AI technologies ✔️
+- Parallel Programing ✔️
+- Soft-skills & Management ✔️
+- Combinatoric Optimalization ✔️
 - Basics of Neural Networks ✔️
 - Computer Vision ✔️
 - Software Development Methods ✔️
